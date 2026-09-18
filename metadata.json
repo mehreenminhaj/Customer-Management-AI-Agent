@@ -1,0 +1,6 @@
+{
+  "name": "Customer Message AI Agent",
+  "description": "Classify incoming customer messages, generate automated responses, and sync records to Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
